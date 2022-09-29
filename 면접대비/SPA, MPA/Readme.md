@@ -12,7 +12,7 @@
 
 ## **CSR**
 
-![https://github.com/baeharam/Must-Know-About-Frontend/raw/main/images/frontend/CSR.png](https://github.com/baeharam/Must-Know-About-Frontend/raw/main/images/frontend/CSR.png)
+![CSR.png](https://miro.medium.com/max/1100/1*1lEXKckn-M0tLpwWhPsODw.png)
 
 [이미지 출처](https://medium.com/@adamzerner/client-side-rendering-vs-server-side-rendering-a32d2cf3bfcc)
 
@@ -32,7 +32,7 @@ CSR에선 브라우저가 서버에 HTML과 JS 파일을 요청한 후 로드되
 
 ## **SSR**
 
-![https://github.com/baeharam/Must-Know-About-Frontend/raw/main/images/frontend/SSR.png](https://github.com/baeharam/Must-Know-About-Frontend/raw/main/images/frontend/SSR.png)
+![SSR.png](https://miro.medium.com/max/786/1*bylhKcVB6678Q6wXhm_p0w.png)
 
 [이미지 출처](https://medium.com/@adamzerner/client-side-rendering-vs-server-side-rendering-a32d2cf3bfcc)
 
