@@ -1,4 +1,4 @@
-- React의 장점
+# React의 장점
     
     **1. 리액트(React.js)란?**
     
