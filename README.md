@@ -10,6 +10,8 @@ Today I Learned
 
 - [AJAX](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/AJAX)
 - [이벤트위임](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
+- [JS 구동과정]()
+- [스코프]()
 
 ## 면접
 
