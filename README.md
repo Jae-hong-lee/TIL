@@ -22,4 +22,4 @@ Today I Learned
 
 ## CSS
 
-- [마진겹침(Margin-Collpasing)] (https://github.com/Jae-hong-lee/TIL_JH/blob/main/CSS/MarginCollpasing/Readme.md)
+- [마진겹침(Margin-Collpasing)](https://github.com/Jae-hong-lee/TIL_JH/blob/main/CSS/MarginCollpasing/Readme.md)
