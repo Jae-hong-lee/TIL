@@ -1,25 +1,28 @@
-# TIL_JH
+# TIL_JH🤔
 
-Today I Learned
+![이미지](https://i.pinimg.com/originals/dd/51/93/dd5193929c723b9cc9efcd10eb5125b5.jpg)
 
-## React
+`Today I Learned` 의 약자.
+그날그날 내가 공부한 것을 정리하는 것이다.
+
+> 오늘 뭘 더 잘했으면 좋았고, 내일 뭘 더 잘할까?
+> TIL 이란? 매일매일 기록하며, 성장하는 공식!
+> Today I learned, 어제는 몰랐지만 오늘 배운 것을 딱 하나라도 매일 매일 적으며 알아가다보면 무조건 성장할 수 있어요.
+
+## ✅CSS
+
+- [마진겹침(Margin-Collpasing)](https://github.com/Jae-hong-lee/TIL_JH/blob/main/CSS/MarginCollpasing/Readme.md)
+
+## ✅JavaScript
+
+- [이벤트 핸들러와 이벤트 리스너]()
+- [이벤트위임](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
+- [스코프](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
+
+## ✅React
 
 - [React 장단점](https://github.com/Jae-hong-lee/TIL_JH/tree/main/React/react%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
-## JavaScript
+## ✅면접
 
-- [AJAX](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/AJAX)
-- [이벤트위임](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
-- [JS 구동과정](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/JS%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
-- [스코프](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
-
-## 면접
-
-- [BOM, DOM](https://github.com/Jae-hong-lee/TIL_JH/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/BOM%2CDOM)
-- [SPA, MPA](https://github.com/Jae-hong-lee/TIL_JH/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/SPA%2C%20MPA)
-- [CORS](https://github.com/Jae-hong-lee/TIL_JH/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CORS)
-- [CI/CD](https://github.com/Jae-hong-lee/TIL_JH/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CICD)
-
-## CSS
-
-- [마진겹침(Margin-Collpasing)](https://github.com/Jae-hong-lee/TIL_JH/blob/main/CSS/MarginCollpasing/Readme.md)
+- [브라우저 렌더링과정]()
