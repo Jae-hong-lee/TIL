@@ -11,19 +11,19 @@
 
 ## ✅CSS
 
-- [마진겹침(Margin-Collpasing)](https://github.com/Jae-hong-lee/TIL_JH/blob/main/CSS/MarginCollpasing/Readme.md)
+- [마진겹침(Margin-Collpasing)](https://github.com/Jae-hong-lee/TIL/tree/main/CSS/MarginCollpasing)
 
 ## ✅JavaScript
 
-- [이벤트 핸들러와 이벤트 리스너]()
-- [이벤트위임](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
-- [스코프](https://github.com/Jae-hong-lee/TIL_JH/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
+- [스코프](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
+- [이벤트 핸들러와 이벤트 리스너](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%99%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A6%AC%EC%8A%A4%EB%84%88)
+- [이벤트위임](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
 
 ## ✅React
 
-- [React 장단점](https://github.com/Jae-hong-lee/TIL_JH/tree/main/React/react%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90)
+- [React 장단점](https://github.com/Jae-hong-lee/TIL/tree/main/React/react%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
 ## ✅면접
 
-- [브라우저 렌더링과정]()
+- [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [JS엔진 구동과정]()
