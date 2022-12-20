@@ -2,13 +2,7 @@
 
 > [Call Stack](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)의 동작원리를 먼저 보고 오는 것을 추천한다.
 
-: `Call Stack`과 `Callback Queue`의 상태를 체크하여, `Call Stack`이 빈 상태가 되면, `Callback Queue`의 첫번째 콜백을 `Call Stack`으로 밀어넣어 준다. 이러한 반복적인 행동을 **틱(tick)** 이라 부른다.
-
-쉽게말해, Javascript 내에서도 효과적으로 일을 처리하기 위한 비슷한 매커니즘이 있는데 이를 event loop라고 부른다.
-
-> 🔥**Event Loop**와 **Queue**는 자바스크립트 엔진이 하나의 코드 조각을 하나씩 처리할 수 있도록 작업을 스케줄하는 동시에 자바스크립트에서 비동기 작업을 할 수 있도록 해준다.
-
-## JS정의
+## ⭐️JS정의 - 짧게..
 
 [다음질문은 강연자료를 참고하였다.](https://youtu.be/8aGhZQkoFbQ)
 
@@ -21,6 +15,14 @@ V8은 "저는 콜 스택과 힙을 가지고 있는데 다른 건 도대체 뭐�
 ![](https://baeharam.netlify.app/media/js/overview.png)
 
 그림을 보게 되면, **V8**이 가지고 있는 힙과 콜스택이 있고 웹 브라우저에서 제공하는 **Web API**가 DOM, Ajax, setTimeout 등을 제공하는 것을 알 수 있다. **이벤트 루프**와 **콜백 큐**도 존재하고 있다.
+
+## ⭐️Event Loop 정의
+
+: `Call Stack`과 `Callback Queue`의 상태를 체크하여, `Call Stack`이 빈 상태가 되면, `Callback Queue`의 첫번째 콜백을 `Call Stack`으로 밀어넣어 준다. 이러한 반복적인 행동을 **틱(tick)** 이라 부른다.
+
+쉽게말해, Javascript 내에서도 효과적으로 일을 처리하기 위한 비슷한 매커니즘이 있는데 이를 event loop라고 부른다.
+
+> 🔥**Event Loop**와 **Queue**는 자바스크립트 엔진이 하나의 코드 조각을 하나씩 처리할 수 있도록 작업을 스케줄하는 동시에 자바스크립트에서 비동기 작업을 할 수 있도록 해준다.
 
 ### ✅다음 코드를 실행하면 각 구성요소 들이 어떤 역할을 하는지 알아보자.
 
@@ -88,7 +90,7 @@ console.log('끝!');
 
 결과적으로 `Event Loop`는 `Call Stack` 비어있는지를 주기적으로 확인하여 `Callback Queue`에서 `Callback function`을 가져와 `Call Stack`에서 `Javascript` 코드가 실행될 수 있도록 돕는 역할을 한다는 것이다.
 
-### Call Stack이 비어있을 경우.
+## ⭐️Call Stack이 비어있을 경우.
 
 Event Loop를 설명 할 때 "**Call Stack이 비어있을 경우**, Callback queue에서 함수를 꺼내 Call Stack에 추가 합니다." 라고 소개한다.
 
@@ -139,7 +141,7 @@ second
 위 예제를 통해 한 가지 확인할 수 있는 것은 `setTimeout`의 delay인자가 delay ms 후에 실행 되는 것을 보장하지 않는다는 거다.
 정확히는 delay ms 후에 **Callback Queue**에 들어가게 된다는 것.
 
-### Callback Queue 의 우선순위
+## ⭐️Callback Queue 의 우선순위
 
 [mdn](https://developer.mozilla.org/ko/docs/Web/API/HTML_DOM_API/Microtask_guide)
 
