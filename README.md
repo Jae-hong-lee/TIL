@@ -23,10 +23,10 @@
 - [실행컨텍스트](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 - [클로저](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [This](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/This)
-- [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX) 추가하기
-- [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback) 추가하기
-- [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise) 추가하기
-- [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await) 추가하기
+  <!-- - [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX) 추가하기 -->
+  <!-- - [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback) 추가하기 -->
+  <!-- - [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise) 추가하기 -->
+  <!-- - [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await) 추가하기 -->
 
 ## ✅ React
 
@@ -34,11 +34,12 @@
 
 ## ✅ GraphQL
 
-- [GraphQL 쓰는 이유](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/GraphQL%EC%9D%84%20%EC%93%B0%EB%8A%94%EC%9D%B4%EC%9C%A0) 추가하기
+<!-- - [GraphQL 쓰는 이유](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/GraphQL%EC%9D%84%20%EC%93%B0%EB%8A%94%EC%9D%B4%EC%9C%A0) 추가하기 -->
 
 ## ✅ 면접
 
-- [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CSR%2C%20SSR) 추가하기
+<!-- - [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CSR%2C%20SSR) 추가하기 -->
+
 - [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
 - [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/EventLoop)
