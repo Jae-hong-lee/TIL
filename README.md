@@ -36,8 +36,8 @@
 
 - [GraphQL 이란?](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/GraphQL%EC%9D%B4%EB%9E%80%3F)
 - [GraphQL 쓰는 이유](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/GraphQL%EC%9D%84%20%EC%93%B0%EB%8A%94%EC%9D%B4%EC%9C%A0)
-- [GraphQL 구조](#)
-- [ApolloClient](#)
+- [GraphQL 구조](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/GraphQL%20%EA%B5%AC%EC%A1%B0)
+- [ApolloClient](https://github.com/Jae-hong-lee/TIL/tree/main/GraphQL/ApolloClient)
 
 ## ✅ 면접
 
