@@ -24,7 +24,7 @@
 - [클로저](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [This](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/This)
 - [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX)
-  <!-- - [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback) 추가하기 -->
+- [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback)
   <!-- - [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise) 추가하기 -->
   <!-- - [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await) 추가하기 -->
 
