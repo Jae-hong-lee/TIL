@@ -9,15 +9,14 @@
 > TIL 이란? 매일매일 기록하며, 성장하는 공식!
 > Today I learned, 어제는 몰랐지만 오늘 배운 것을 딱 하나라도 매일 매일 적으며 알아가다보면 무조건 성장할 수 있어요.
 
-# [CSS](#css)
+# 목차
 
-# [JS](#✅-javascript)
-
-# [React](#✅-react)
-
-# [GraphQL](#✅-graphql)
-
-# [Network](#✅-network)
+- [CSS](#-css)
+- [JS](#-javascript)
+- [React](#-react)
+- [GraphQL](#-graphql)
+- [Network](#-network)
+- [면접](#-면접)
 
 ## ✅ CSS
 
