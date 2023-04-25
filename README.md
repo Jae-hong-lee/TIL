@@ -56,7 +56,7 @@
 
 - [CI/CD란?](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CI%2CCD)
 - [AWS S3 + GitHub Action](<https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/AWS%2C%20GithubAction%20(1)>)
-- [AWS S3 + GitHub Action(2)](#)
+- [AWS S3 + GitHub Action(2)](<https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/AWS%2C%20GithubAction%20(2)>)
 
 ## ✅ Network
 
@@ -71,3 +71,4 @@
 - [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
 - [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/EventLoop)
 - [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Recoil)
+- [Same Origin Policy](#)
