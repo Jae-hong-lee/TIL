@@ -63,6 +63,8 @@
 - [Cookie, Session](https://github.com/Jae-hong-lee/TIL/tree/main/Network/cookie%2Csession)
 - [rest API](https://github.com/Jae-hong-lee/TIL/tree/main/Network/RestAPI)
 - [HTTP, HTTPS](https://github.com/Jae-hong-lee/TIL/tree/main/Network/HTTP%2C%20HTTPS)
+- [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Same%20Origin%20Policy)
+- [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CORS)
 
 ## ✅ 면접
 
@@ -71,4 +73,3 @@
 - [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
 - [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/EventLoop)
 - [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Recoil)
-- [Same Origin Policy](#)
