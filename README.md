@@ -67,10 +67,11 @@
 - [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Same%20Origin%20Policy)
 - [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CORS)
 
-## ✅ 면접
+## ✅ 공부 & 스터디
 
 - [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CSR%2C%20SSR)
 - [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
 - [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/EventLoop)
 - [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Recoil)
+- [What is Nextron?](#)
