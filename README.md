@@ -61,8 +61,8 @@
 ## ✅ Network
 
 - [Cookie, Session](https://github.com/Jae-hong-lee/TIL/tree/main/Network/cookie%2Csession)
-- [rest API](https://github.com/Jae-hong-lee/TIL/tree/main/Network/RestAPI)
-- [RESTful API를 위한 HTTP Methods](#)
+- [RESTful & REST API](https://github.com/Jae-hong-lee/TIL/tree/main/Network/RestAPI)
+
 - [HTTP, HTTPS](https://github.com/Jae-hong-lee/TIL/tree/main/Network/HTTP%2C%20HTTPS)
 - [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Same%20Origin%20Policy)
 - [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CORS)
