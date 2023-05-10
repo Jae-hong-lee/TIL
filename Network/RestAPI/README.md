@@ -32,7 +32,8 @@ GET API는 멱등성의 띈다. 멱등성이란, 동일한 API를 여러번 호�
 
 > **POST** VS **PUT**
 > POST는 _여러개의 자원_ 에 수행되는 반면, PUT은 _단일 자원_ 에만 수행된다.
-> <img width="500" alt="스크린샷 2023-05-08 오후 8 28 45" src="https://user-images.githubusercontent.com/72030487/236812738-5c49346d-f315-48d7-8423-f19aaa4a3ac9.png"> > <img width="500" alt="스크린샷 2023-05-08 오후 8 30 22" src="https://user-images.githubusercontent.com/72030487/236812876-c7569e24-190d-4a15-990f-98f505ea5ca7.png">
+> <img width="500" alt="스크린샷 2023-05-08 오후 8 28 45" src="https://user-images.githubusercontent.com/72030487/236812738-5c49346d-f315-48d7-8423-f19aaa4a3ac9.png">
+> <img width="500" alt="스크린샷 2023-05-08 오후 8 30 22" src="https://user-images.githubusercontent.com/72030487/236812876-c7569e24-190d-4a15-990f-98f505ea5ca7.png">
 
 > [출처: 얄코 rest api](https://www.yalco.kr/23_rest_api/)
 

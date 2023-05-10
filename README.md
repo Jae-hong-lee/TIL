@@ -16,7 +16,7 @@
 - [React](#-react)
 - [GraphQL](#-graphql)
 - [Network](#-network)
-- [면접](#-면접)
+- [공부 & 스터디](#-공부--스터디)
 
 ## ✅ CSS
 
@@ -33,7 +33,6 @@
 - [클로저](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [This](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/This)
 - [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX)
-
 - [동기 비동기](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0)
 
   - [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback)
@@ -54,24 +53,23 @@
 
 ## ✅ CI/CD
 
-- [CI/CD란?](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CI%2CCD)
-- [AWS S3 + GitHub Action](<https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/AWS%2C%20GithubAction%20(1)>)
-- [AWS S3 + GitHub Action(2)](<https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/AWS%2C%20GithubAction%20(2)>)
+- [CI/CD란?](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/CI%2CCD)
+- [AWS S3 + GitHub Action](<https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/AWS%2C%20GithubAction%20(1)>)
+- [AWS S3 + GitHub Action(2)](<https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/AWS%2C%20GithubAction%20(2)>)
 
 ## ✅ Network
 
 - [Cookie, Session](https://github.com/Jae-hong-lee/TIL/tree/main/Network/cookie%2Csession)
 - [RESTful & REST API](https://github.com/Jae-hong-lee/TIL/tree/main/Network/RestAPI)
-
 - [HTTP, HTTPS](https://github.com/Jae-hong-lee/TIL/tree/main/Network/HTTP%2C%20HTTPS)
-- [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Same%20Origin%20Policy)
-- [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CORS)
+- [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Same%20Origin%20Policy)
+- [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/CORS)
 
 ## ✅ 공부 & 스터디
 
-- [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/CSR%2C%20SSR)
-- [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
-- [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
-- [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/EventLoop)
-- [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/Recoil)
-- [What is Nextron?](#)
+- [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/CSR%2C%20SSR)
+- [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
+- [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
+- [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/EventLoop)
+- [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Recoil)
+- [What is Nextron?](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextron)
