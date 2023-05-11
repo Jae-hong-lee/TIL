@@ -14,7 +14,7 @@ Node.js를 기반으로 javascript를 사용하여 **데스크탑 App을 만드�
 
 #### 일렉트론은 어떻게 동작할까?
 
-<img width="700" src = "https://tech.kakao.com/storage/2022/01/03-18.png">
+<img width="700" alt = "일렉트론 동작" src = "https://tech.kakao.com/storage/2022/01/03-18.png">
 
 일렉트론에는 두 가지(메인, 렌더러)의 프로세스가 존재한다.
 일렉트론 앱은 단 하나의 메인 프로세스를 가지는데, 메인 프로세스는 `Node.js` 기반으로 동작하며 `main` 프로세스에서는 이러한 `renderer` 프로세스들을 관리하고, **각각의 렌더러 프로세스는 서로 독립적으로 동작한다**
@@ -27,7 +27,85 @@ Node.js를 기반으로 javascript를 사용하여 **데스크탑 App을 만드�
 > Electron은 IPC를 사용하여 Main 프로세스와 Renderer 프로세스 간에 직렬화 된 JSON 메시지는 동기적 또는 비동기적으로 통신한다.
 > ex) React 에서의 props 개념?
 
-#### IPC 모듈 (추가하기)
+**Main Processor**
+Main 프로세스는 일반적으로 우리가 Electron으로 개발할 때 생성하는 main.js로 볼 수 있다.
+이는 Electron 앱의 진입점이기도 하며, 앱의 Life Cycle을 관리한다. 뿐만 아니라 애플리케이션에서 사용되는 메뉴, Dock, 트레이와 같은 네이티브 요소를 관리하며 Main 프로세스는 앱에서 *각각의 새로운 Renderer 프로세스*를 생성한다.
+
+**Renderer Processor**
+Renderer 프로세스는 Electron 앱의 Chromium 기반의 브라우저 창을 관리하는 모듈이다.
+Main 프로세스와 달리 Renderer 프로세스는 여러 개가 존재할 수 있으며, Main 프로세스와는 1:N의 관계를 맺는다.
+
+#### IPC 모듈
+
+<img width = "700" alt = "IPC 모듈 동작" src = "https://velog.velcdn.com/images%2Fminidoo%2Fpost%2F2d100a64-1056-4c80-9f78-ffd80cc7c344%2Fimage.png">
+
+**ipcMain**
+_ipcMan 모듈은 Renderer 프로세스(웹 페이지)가 보내는 메시지 또는 이벤트를 동기적 혹은 비동기적으로 처리한다._
+ipcMain에서는 IPC 통신을 할 때 수신만 할 수 있다.
+
+> 이벤트 수신은 on이며 송신은 send라 하였지만, ipcMain에서는 on으로 송신을 하며 send가 아닌 reply로 회신하는 것이다.
+
+**ipcRenderer**
+ipcRenderer 모듈은 Renderer 프로세스(웹 페이지)에서 Main 프로세스로 동기 또는 비동기 메시지를 보낼 수 있다.
+
+> Main 프로세스에서 webContents.send 로 메시지를 보냈다면 수신 역시 가능하다.
+
+보통 웹 페이지에서 HTTP 통신을 통해 받아온 데이터를 보내거나 Main 프로세스를 호출할 경우 사용되며, send를 통해 송신하고 on을 통해 수신한다.
+
+#### IPC 예제
+
+**ipcMain에서 on을 통한 이벤트 수신**
+
+```js
+const { ipcMain } = require("electron");
+
+// ipcMain에서의 이벤트 수신
+ipcMain.on("CHANNEL_NAME", (evt, payload) => {
+  console.log(payload);
+
+  evt.reply("IPC_RENDERER_CHANNEL_NAME", "message");
+});
+```
+
+위 예제에서 `CHANNEL_NAME`은 메시지를 송신할 이름을 말하며 `channel`이라고 한다. 어느 ipcRenderer 프로세스에서 `CHANNEL_NAME`으로 메시지를 수신하였고 ipMain 프로세스는 `CHANNEL_NAME`로 송신하였다. 그리고 다시 `reply`를 통하여 송신 후 다시 응답하였다.
+
+이 응답의 `channel` 이름은 **IPC_RENDERER_CHANNEL_NAME**이다. 이렇게 응답을 하였기에 어느 `ipcRenderer` 프로세서는 `on`을 통하여 **IPC_RENDERER_CHANNEL_NAME** 채널로 수신할 것이다.
+
+기능 측면에서 send의 개념도 가능하지만 `ipcMain` 프로세스는 `ipcRenderer`와 같은 `send` 메소드를 가지고 있진 않다. _send를 하기 위해서는 **webContents.send**를 이용해야 한다._
+
+```js
+const { app, BrowserWindow } = require("electron");
+
+app.whenReady().then(() => {
+  const win = new BrowserWindow({
+    // options
+  });
+
+  win.webContents.send("IPC_RENDERER_CHANNEL_NAME", "message");
+});
+```
+
+`ipcMain`이 될 수 있는 `main.js`에서 **IPC_RENDERER_CHANNEL_NAME** 채널명으로 수신하고 있다. 이는 어느 `ipcRenderer`에서 **IPC_RENDERER_CHANNEL_NAME** 채널명으로 송신을 받고 이후의 처리를 할 수 있을 것이다.
+
+이렇게 되면 `ipcMain`에서도 `ipcRenderer`와 동일하게 메시지를 송신할 수 있다.
+
+---
+
+**ipcRenderer에서 send을 통한 이벤트 송신**
+
+```js
+const { ipcRenderer } = require("electron");
+
+const payload = "message";
+
+// ipcRenderer에서의 이벤트 송신
+ipcRenderer.send("CHANNEL_NAME", payload);
+
+// ipcRenderer에서의 이벤트 수신
+ipcRenderer.send("CHANNEL_NAME", (evt, payload) => {
+  console.log(payload);
+});
+```
 
 ### 2. Nextron 이란 ?
 
