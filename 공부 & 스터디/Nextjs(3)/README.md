@@ -30,7 +30,7 @@ import { useRouter } from "next/router";
 
 #### .push
 
-client-side 전환을 할 수 있도록 도와주고 Next/link 대신 사용할 수 있다.
+**client-side 전환을 할 수 있도록 도와주고** Next/link 대신 사용할 수 있다.
 
 router.push는 라우터 히스토리 스택에 새로운 url을 쌓아주는데,
 예를 들어 `home > login > item` 순으로 페이지를 이동했을 때,
@@ -106,6 +106,22 @@ _Client-side navigation 이란 페이지 전환이 javascript로 이루어지는
 <img src = "https://nextjs.org/static/images/learn/navigate-between-pages/client-side.gif">
 
 `<Link href="…">` 대신 `<a href="…">`사용하고 이 작업을 수행한 경우 브라우저가 전체 새로 고침을 수행하기 때문에 링크 클릭 시 배경색이 지워진다.
+
+## 정리
+
+### Router
+
+router.push()를 이용하는 경우는 window.location과 비슷하게 동작,
+`<a>`태그를 만들지 않기때문에 검색엔진최적화(`SEO`)을 신경쓰고 있다면 해당 링크는 크롤링되지 않아서 **SEO에 불리**, 대부분 onClick과 같은 이벤트 핸들러와 같이 사용
+
+> router.push는 보통 eventHanlder와 함께 맞이 쓰이는데, 이건 액션이다. 만약 버튼을 누른다고 가정을 하자 그러면 당신은 task 코드가 실행 될 것이고, 그에 따른 결과에 따라 페이지를 이동하는데 이럴때는 router.push()를 사용할 수 있겠다. 단지 다른 페이지를 가기위해서 사용하지말자. SEO에 좋지 않다.
+
+### Link
+
+`<Link>태그`는 `<a>태그를 생성`하기 때문에 웹사이트가 크롤링되어 **SEO에 유리**합니다.
+페이지를 다시 로드하지않고 SPA동작처럼 "보이게" 만듬.
+
+SEO 에 유리하기 때문에 Link 태그를 쓰는게 맞아 보일 수는 있어도 사용자 개인에게만 필요한 페이지(mypage)같은 경우는 router.push 를 이용해서 이벤트 핸들러와 같이 사용해도 될 것 같다.
 
 ---
 
