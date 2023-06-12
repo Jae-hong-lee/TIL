@@ -43,6 +43,7 @@
 
 - [Virtual DOM](https://github.com/Jae-hong-lee/TIL/tree/main/React/Virtual%20DOM)
 - [React 장단점](https://github.com/Jae-hong-lee/TIL/tree/main/React/react%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90)
+- [useMemo, useCallback]()
 
 ## ✅ GraphQL
 
