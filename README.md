@@ -65,6 +65,7 @@
 - [HTTP, HTTPS](https://github.com/Jae-hong-lee/TIL/tree/main/Network/HTTP%2C%20HTTPS)
 - [Same Origin Policy](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Same%20Origin%20Policy)
 - [CORS](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/CORS)
+- [URL을 입력하면 벌이지는 일]()
 
 ## ✅ 공부 & 스터디
 
