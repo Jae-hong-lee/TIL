@@ -34,7 +34,6 @@
 - [This](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/This)
 - [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX)
 - [동기 비동기](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0)
-
   - [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback)
   - [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise)
   - [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await)
