@@ -79,6 +79,7 @@
 - [Link, Router 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextjs(3)>)
 - [Vite란?](https://github.com/Jae-hong-lee/TIL/tree/main/Vite)
 - [MSW]()
+- [react-query Optimistic Update(낙관적 업데이트)]()
 
 ## ✅ 자료구조 & 알고리즘
 
