@@ -1,5 +1,7 @@
 # React-Query
 
+![React-Query](https://github.com/Jae-hong-lee/TIL/assets/72030487/a2b419a0-e7a4-4c0a-950b-619e558cf8af)
+
 React-Query 는 데이터 Fetching, Caching, 동기화, 서버 데이터 업데이트 등을 쉽게 만들어 주는 라이브러리이다.
 React에서 상태를 관리하기 위해 Redux, Recoil 등 여러 라이브러리가 존재하는데 React-Query는 간단하게 이야기해서 React 환경에서의 비동기 Query 과정을 도와주는 라이브러리인 것이다.
 
