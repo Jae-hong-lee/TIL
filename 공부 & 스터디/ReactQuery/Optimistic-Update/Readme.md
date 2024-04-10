@@ -33,6 +33,5 @@
 
 ---
 
-[UX 향상을 위한 Optimistic Updates 구현하기 (with 리액트 쿼리)-제제
-](https://velog.io/@jhjung3/Optimistic-Updates-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC)
+[UX 향상을 위한 Optimistic Updates 구현하기 (with 리액트 쿼리)-제제](https://velog.io/@jhjung3/Optimistic-Updates-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC)
 [tecoble-낙관적 업데이트로 사용자 경험을 개선해보자!](https://tecoble.techcourse.co.kr/post/2023-08-15-how-to-improve-ux-with-optimistic-update)
