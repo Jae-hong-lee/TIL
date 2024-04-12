@@ -74,6 +74,16 @@ useMutation({
 });
 ```
 
+업데이트시에 낙관적 업데이트를 적용한 모습
+
+![sadsadsa](https://github.com/Jae-hong-lee/TIL/assets/72030487/0d94af8f-c4e7-4848-a9cb-93e54aade727)
+
+낙관적 업데이트를 적용하지 않은 모습
+
+![asdsad](https://github.com/Jae-hong-lee/TIL/assets/72030487/1dbf33d7-085a-41aa-b8fe-542cf5f79f1f)
+
+뮤테이션 차이를 보면 확연히 그 차이를 느낄 수 있다.
+
 ---
 
 [UX 향상을 위한 Optimistic Updates 구현하기 (with 리액트 쿼리)-제제](https://velog.io/@jhjung3/Optimistic-Updates-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BF%BC%EB%A6%AC)
