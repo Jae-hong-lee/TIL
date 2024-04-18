@@ -24,6 +24,8 @@
 
 ## ✅ JavaScript
 
+- [원시타입과 참조타입]()
+- [Map 과 Object 에 차이점]()
 - [이벤트 핸들러와 이벤트 리스너](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%99%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A6%AC%EC%8A%A4%EB%84%88)
 - [이벤트위임](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
 - [스코프](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
