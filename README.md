@@ -86,6 +86,7 @@
 - [MSW](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/MSW/Readme.md)
 - [react-query](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Readme.md)
 - [react-query Optimistic Update(낙관적 업데이트)](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Optimistic-Update)
+- [newMap 과 Object에 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/new%20Map%20%EA%B3%BC%20Object%20%EC%97%90%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20JS%20(Object.entries())>)
 
 ## ✅ 자료구조 & 알고리즘
 
