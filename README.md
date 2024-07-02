@@ -24,8 +24,10 @@
 
 ## ✅ JavaScript
 
+- [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
+- [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/EventLoop)
 - [원시타입과 참조타입]()
-- [Map 과 Object 에 차이점]()
+- [newMap 과 Object에 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/new%20Map%20%EA%B3%BC%20Object%20%EC%97%90%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20JS%20(Object.entries())>)
 - [이벤트 핸들러와 이벤트 리스너](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%99%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A6%AC%EC%8A%A4%EB%84%88)
 - [이벤트위임](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
 - [스코프](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84)
@@ -36,9 +38,11 @@
 - [This](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/This)
 - [AJAX](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/AJAX)
 - [동기 비동기](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0)
-  - [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback)
-  - [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise)
-  - [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await)
+- [callback](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/callback)
+- [Promise](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Promise)
+- [Async/Await](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/Async%20Await)
+
+## ✅ TypeScript
 
 ## ✅ React
 
@@ -75,8 +79,7 @@
 
 - [CSR, SSR](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/CSR%2C%20SSR)
 - [브라우저 렌더링과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)
-- [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
-- [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/EventLoop)
+
 - [Recoil 이란? - 전역관리](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Recoil)
 - [What is Nextron?](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextron)
 - [Nextjs란](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextjs)
@@ -86,7 +89,6 @@
 - [MSW](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/MSW/Readme.md)
 - [react-query](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Readme.md)
 - [react-query Optimistic Update(낙관적 업데이트)](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Optimistic-Update)
-- [newMap 과 Object에 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/new%20Map%20%EA%B3%BC%20Object%20%EC%97%90%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20JS%20(Object.entries())>)
 
 ## ✅ 자료구조 & 알고리즘
 
