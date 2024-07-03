@@ -26,7 +26,7 @@
 
 - [JS엔진 구동과정](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/JS%EC%97%94%EC%A7%84%20%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95)
 - [EventLoop](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/EventLoop)
-- [원시타입과 참조타입]()
+- [원시타입과 참조타입](https://github.com/Jae-hong-lee/TIL/blob/9dea4081c2158d49494bab67070bed9bd46a1726/JavaScript/%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85/Readme.md)
 - [newMap 과 Object에 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/new%20Map%20%EA%B3%BC%20Object%20%EC%97%90%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20JS%20(Object.entries())>)
 - [이벤트 핸들러와 이벤트 리스너](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%99%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A6%AC%EC%8A%A4%EB%84%88)
 - [이벤트위임](https://github.com/Jae-hong-lee/TIL/tree/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84)
