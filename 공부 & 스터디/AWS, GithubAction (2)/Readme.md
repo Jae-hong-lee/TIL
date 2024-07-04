@@ -1,5 +1,9 @@
 # AWS + GithubAction (2)
 
+[ ] 어떻게 연결하고 어떻게 사용했는지?
+[ ] 내 코드는 어떤지
+[ ] 어떤 에러가 발생했는지
+
 ---
 
 > [aws cli 명령어](https://inpa.tistory.com/entry/AWS-CLI-%F0%9F%93%9A-S3-CLI-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A2%85%EB%A5%98-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC)
