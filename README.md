@@ -44,6 +44,8 @@
 
 ## ✅ TypeScript
 
+- [Typescript - pick](https://github.com/Jae-hong-lee/TIL/blob/main/TypeScript/Pick/Readme.md)
+
 ## ✅ React
 
 - [Virtual DOM](https://github.com/Jae-hong-lee/TIL/tree/main/React/Virtual%20DOM)
