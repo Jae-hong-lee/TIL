@@ -1,1 +1,1 @@
-# 연결리스트 (Linked List)
+# 연결리스트2 (Linked List)
