@@ -89,6 +89,7 @@ export default Projects;
 `fetchProjects` 함수: API로부터 데이터를 받아오는 함수, pageParam을 사용하여 페이지 번호를 전달합니다.
 `useInfiniteQuery` 훅: 이 훅을 사용하여 무한 스크롤링을 구현한다. getNextPageParam 옵션을 통해 다음 페이지의 파라미터를 정의함.
 **컴포넌트 렌더링**: data.pages를 통해 각 페이지의 데이터를 렌더링한다. fetchNextPage를 호출하여 다음 페이지의 데이터를 가져온다.
+
 `queryKey`: 쿼리를 식별하는 키, 이 예제에서는 'projects'로 설정되어있음
 `queryFn`: 데이터를 가져오는 함수
 `getNextPageParam`: 다음 페이지의 파라미터를 정의하는 함수, lastPage와 pages 인자를 사용하여 다음 페이지를 결정
