@@ -92,6 +92,7 @@
 - [react-query](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Readme.md)
 - [react-query Optimistic Update(낙관적 업데이트)](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Optimistic-Update)
 - [react-query useInfinityQuery](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/useInfiniteQuery)
+- [react-query IntersectionObserver](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/IntersectionObserver)
 - [Notion API](https://github.com/Jae-hong-lee/TIL/blob/2a5cd11ac2b640b8f3d9230cee4ccffc6042f533/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/NotionAPI/Readme.md)
 
 ## ✅ 자료구조 & 알고리즘
