@@ -87,16 +87,17 @@
 - [Nextjs란](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextjs)
 - [pre-reloading](<https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextjs(2)>)
 - [Link, Router 차이](<https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Nextjs(3)>)
-- [Vite란?](https://github.com/Jae-hong-lee/TIL/tree/main/Vite)
+- [Vite란?](https://githhttps://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Recoilub.com/Jae-hong-lee/TIL/tree/main/Vite)
 - [MSW](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/MSW/Readme.md)
 - [react-query](https://github.com/Jae-hong-lee/TIL/blob/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Readme.md)
 - [react-query Optimistic Update(낙관적 업데이트)](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/Optimistic-Update)
 - [react-query useInfinityQuery](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/useInfiniteQuery)
 - [react-query IntersectionObserver](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/IntersectionObserver)
+- [react-query 캐싱 메커니즘](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/ReactQuery/%EC%BA%90%EC%8B%B1%20%EB%A7%A4%EC%BB%A4%EB%8B%88%EC%A6%98)
 - [Notion API](https://github.com/Jae-hong-lee/TIL/blob/2a5cd11ac2b640b8f3d9230cee4ccffc6042f533/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/NotionAPI/Readme.md)
-- [Redux]()
-- [Recpil]()
-- [Chart.js]()
+- [Redux](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Redux)
+- [Recoil](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/Recoil)
+- [Chart.js](https://github.com/Jae-hong-lee/TIL/tree/main/%EA%B3%B5%EB%B6%80%20%26%20%EC%8A%A4%ED%84%B0%EB%94%94/chartjs)
 
 ## ✅ 자료구조 & 알고리즘
 
